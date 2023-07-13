@@ -1,0 +1,38 @@
+.quiz3 {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-size: 16px;
+  }
+  
+  input {
+    width: 100%;
+    border: 1px solid gray;
+    padding: 5px;
+  }
+  
+  button {
+    background-color: #282828;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .swapped-values {
+    font-size: 16px;
+  }
